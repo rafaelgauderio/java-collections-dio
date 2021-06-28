@@ -47,7 +47,7 @@ public class ExampleList {
 
         System.out.println("Exibir a soma da dos valores da lista: " + String.format("%.2f",soma));
 
-        System.out.println("Exibir a média das notas: " + (soma/grades.size()));
+        System.out.println("Exibir a média das notas: " + String.format("%.2f",soma/grades.size()));
 
         System.out.println("Remover a nota 4.0: " + grades.remove(4.0));
         System.out.println(grades);

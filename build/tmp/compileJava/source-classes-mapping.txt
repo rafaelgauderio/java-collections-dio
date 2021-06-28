@@ -7,3 +7,5 @@ ExampleSortList.java
  CompareNameColorAge
  ExampleSortList
  ExampleSortList$1
+ExampleSet.java
+ ExampleSet
