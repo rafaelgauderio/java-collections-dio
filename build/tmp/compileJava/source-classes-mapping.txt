@@ -13,3 +13,10 @@ ExampleList.java
  ExampleList
 ExampleMap.java
  ExampleMap
+ExampleMapOrder.java
+ Book
+ ComparatorName
+ ComparatorPages
+ ExampleMapOrder
+ ExampleMapOrder$1
+ ExampleMapOrder$2
