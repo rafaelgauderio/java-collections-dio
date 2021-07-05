@@ -20,3 +20,5 @@ ExampleMapOrder.java
  ExampleMapOrder
  ExampleMapOrder$1
  ExampleMapOrder$2
+StreamApiDefinition.java
+ StreamApiDefinition
