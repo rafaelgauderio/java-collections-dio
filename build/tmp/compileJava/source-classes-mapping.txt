@@ -1,5 +1,5 @@
-ExampleList.java
- ExampleList
+MapDefinition.java
+ MapDefinition
 ExampleSortList.java
  Cat
  CompareAge
@@ -9,5 +9,7 @@ ExampleSortList.java
  ExampleSortList$1
 ExampleSet.java
  ExampleSet
-MapDefinicioes.java
- MapDefinicioes
+ExampleList.java
+ ExampleList
+ExampleMap.java
+ ExampleMap
