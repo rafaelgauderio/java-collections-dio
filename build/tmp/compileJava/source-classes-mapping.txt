@@ -9,3 +9,5 @@ ExampleSortList.java
  ExampleSortList$1
 ExampleSet.java
  ExampleSet
+MapDefinicioes.java
+ MapDefinicioes
